@@ -1,0 +1,1561 @@
+.body{
+    font: normal normal 800 30dp/190dp Manrope;
+
+}
+
+.header{
+    background-color: #FBF3E4;
+    height: 75px;
+    width: 1525px;
+    margin-top: -10px;
+    margin-left: -10px;
+    position: absolute;
+}
+
+.menu{
+    margin-top: 20px;
+    color: #424242;
+}
+.name{
+    color: #105652;
+    font-size: 25px;
+    margin-left: 50px;
+    font-weight: bolder;
+
+}
+
+.home{
+    margin-left: 600px;
+    text-decoration: none;
+    color: #424242;
+
+}
+
+.about{
+    margin-left: 50px;
+    color: #424242;
+    text-decoration: none;
+}
+
+.resume{
+    margin-left: 50px;
+    text-decoration: none;
+    color: #424242;
+}
+
+.portfolio{
+    margin-left: 50px;
+    text-decoration: none;
+    color: #424242;
+}
+
+.contact{
+    margin-left: 50px;
+    text-decoration: none;
+    color: #424242;
+}
+
+.profile{
+    background-color: #105652;
+    height: 450px;
+    width: 1525px;
+    margin-left: -10px;
+    margin-top: 50px;
+    position: absolute;
+
+}
+
+.htxt{
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.hire{
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 60px;
+    width: 150px;
+    height: 40px;
+   background-color:  #09BEAD;
+   
+    
+}
+.cvtxt{
+        text-decoration: none;
+        color: antiquewhite;
+    }
+
+.getcv{
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 60px;
+    width: 150px;
+    height: 40px;
+    background-color: #FCA738;
+    
+
+
+}
+
+.btntxt{
+    font-size: 15px;
+    color: darkgoldenrod;   
+    text-decoration: none;
+}
+
+
+
+.developer{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-left: 60px;
+}
+
+.ideas{
+    color: wheat;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+.abhay{
+    color: #FCA738;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.image{
+    position: absolute;
+    top: 20px;
+    left: 760px;
+    width: 905px;
+    height: 970px;
+    background: transparent url(about.jpg) 0% 0% no-repeat padding-box;
+    
+}
+
+
+.image2{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 905px;
+    height: 970px;
+    background: transparent url(about.jpg) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.aboutme{
+    background-color: #FFFFFF;
+    height: 500px;
+    width: 1238px;
+    margin-left: 100px;
+    margin-top: 520px;
+    position: absolute;
+    border-radius: 20px;
+    box-shadow: 0px 0px 59px black;
+
+}
+
+.waves{
+display: none;
+}
+
+.aboutmetxt{
+    position: absolute;
+    font-size: 20px;
+    font-weight: bolder;
+    left: 800px;
+    top: 20px;
+    position: absolute;
+}
+
+.hr1{
+   background-color: orange;
+   border-radius: 5px;
+    height: 5px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 750px;
+    position: absolute;
+}
+
+.paragraph{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 730px;
+    margin-right: 20px;
+    justify-content: center;
+    text-align: left;
+    justify-content: space-around;
+ 
+}
+
+
+.skill{
+    
+   margin-top: 320px;
+    margin-left: 720px;
+    width: 490px;
+    height: 143px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 30px #00000029;
+    border-radius: 20px;
+    opacity: 1;
+    position: absolute;
+}
+
+.skilltxt{
+    position: absolute;
+    color: darkolivegreen;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.html{
+    position: relative;
+    background: transparent url('html.png') 0% 0% no-repeat padding-box;
+width: 50px;
+height:50px;
+margin-top: 60px;
+margin-left: 20px;
+
+}
+
+.css{
+    position: relative;
+    background: transparent url('css.png') 0% 0% no-repeat padding-box;
+width: 50px;
+height:50px;
+margin-top: 10px;
+margin-left: 20px;
+
+}
+
+.js{
+    position: relative;
+    background: transparent url('js.png') 0% 0% no-repeat padding-box;
+width: 50px;
+height:50px;
+margin-top: 10px;
+margin-left: 20px;
+
+}
+
+.react{
+    position: relative;
+    background: transparent url('react.png') 0% 0% no-repeat padding-box;
+width: 50px;
+height:50px;
+margin-top: 10px;
+margin-left: 20px;
+
+}
+.mysql{
+    position: relative;
+    background: transparent url('mysql.png') 0% 0% no-repeat padding-box;
+width: 50px;
+height:50px;
+margin-top: 10px;
+margin-left: 20px;
+
+}
+.php{
+
+    position: relative;
+    background: transparent url('php.png') 0% 0% no-repeat padding-box;
+width: 50px;
+height:50px;
+margin-top: 10px;
+margin-left: 10px;
+}
+
+.myportfolio{
+    position: absolute;
+    font-size: 25px;
+    font-weight: bolder;
+    left: 700px;
+    top: 1100px;
+}
+
+.hr2{
+    position: absolute;
+background-color: orange;
+   border-radius: 5px;
+    height: 5px;
+    width: 200px;
+    margin-top: 1130px;
+    margin-left: 670px;
+
+}
+
+.projects{
+    display: flexbox;
+    width: 100px;
+    height: 100px;
+    
+}
+
+.backtracking{
+    position: absolute;
+border-radius: 10px;
+    border: 2px solid black;
+    width: 300px;
+    height: 200px;
+    margin-top: 1200px;
+    margin-left: 100px;
+
+}
+
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+.todoapp{
+    position: absolute;
+    border-radius: 10px;
+        border: 2px solid black;
+        width: 300px;
+        height: 500px;
+        margin-top: 1200px;
+        margin-left: 600px;
+       
+    
+    }
+
+
+.clock{
+    position: absolute;
+    
+    border-radius: 10px;
+  
+        width: 300px;
+        height: 200px;
+        margin-top: 1200px;
+        margin-left: 1100px;
+       
+    
+    }
+
+    
+.todojs{
+    position: absolute;
+  
+    border-radius: 10px;
+        border: 2px solid black;
+        width: 300px;
+        height: 200px;
+        margin-top: 1500px;
+        margin-left: 100px;
+       
+    
+    }
+
+    
+.todoweb{
+    position: absolute;
+ 
+    border-radius: 10px;
+        border: 2px solid black;
+        width: 300px;
+        height: 200px;
+        margin-top: 1500px;
+        margin-left: 1100px;
+       
+    
+    }
+
+
+    .myresume{
+        position: absolute;
+        font-size: 25px;
+        font-weight: bolder;
+        left: 700px;
+        top: 1800px;
+    }
+    
+    .hr3{
+        position: absolute;
+    background-color: orange;
+       border-radius: 5px;
+        height: 5px;
+        width: 200px;
+        margin-top: 1730px;
+        margin-left: 650px;
+    
+    }
+
+        
+
+    .cv{
+        position: absolute;
+
+    border-radius: 10px;
+        border: 2px solid burlywood;
+        width: 900px;
+        height: 500px;
+        margin-top: 1790px;
+        margin-left: 300px;
+    
+    }
+
+
+    .peoplesay{
+        position: absolute;
+        font-size: 25px;
+        font-weight: bolder;
+        left: 630px;
+        top: 2500px;
+    }
+    
+    .hr4{
+        position: absolute;
+    background-color: orange;
+       border-radius: 5px;
+        height: 5px;
+        width: 350px;
+        margin-top: 2430px;
+        margin-left: 610px;
+    
+    }
+
+    .test{
+        position: absolute;
+       background-color: whitesmoke;
+        height: 500px;
+        width: 1000px;
+        margin-left: 250px;
+        margin-top: 2470px;
+        position: absolute;
+        border-radius: 20px;
+    }
+
+    .p1{
+        position: absolute;
+        height: 200px;
+        width: 200px;
+        border-radius: 50%;
+       background-color: #FFFFFF;
+       background-image: url(p1.png);
+      margin-top: 50px;
+      margin-left: 100px;
+
+    }
+    .p1name{
+        position: absolute;
+        top: 300px;
+        margin-left: 95px;
+        font-size: 20px;
+        color: brown;
+        font-weight: bolder;
+        text-align: center;
+
+    }
+    .p1work{
+        position: absolute;
+        top: 325px;
+        margin-left: 90px;
+        font-size: 17px;
+        color: gray;
+        font-weight: bold;
+    }
+    .p1intro{
+        position: absolute;
+        top: 350px;
+        margin-left: 95px;
+        font-size: 15px;
+        color: darkolivegreen;
+        
+    }
+
+
+    .p2{
+        position: absolute;
+        height: 200px;
+        width: 200px;
+        border-radius: 50%;
+       background-color: #FFFFFF;
+       background-image: url(p2.JPG);
+      margin-top: 50px;
+      margin-left: 400px;
+
+    }
+    .p2name{
+        position: absolute;
+        top: 300px;
+        margin-left: 400px;
+        font-size: 20px;
+        color: brown;
+        font-weight: bolder;
+        text-align: center;
+
+    }
+    .p2work{
+        position: absolute;
+        top: 325px;
+        margin-left: 390px;
+        font-size: 17px;
+        color: gray;
+        font-weight: bold;
+    }
+    .p2intro{
+        position: absolute;
+        top: 350px;
+        margin-left: 395px;
+        font-size: 15px;
+        color: darkolivegreen;
+        
+    }
+
+    
+    .p3{
+        position: absolute;
+        height: 200px;
+        width: 200px;
+        border-radius: 50%;
+       background-color: #FFFFFF;
+       background-image: url(p3.jpg);
+      margin-top: 50px;
+      margin-left: 700px;
+
+    }
+    .p3name{
+        position: absolute;
+        top: 300px;
+        margin-left: 695px;
+        font-size: 20px;
+        color: brown;
+        font-weight: bolder;
+        text-align: center;
+
+    }
+    .p3work{
+        position: absolute;
+        top: 325px;
+        margin-left: 690px;
+        font-size: 17px;
+        color: gray;
+        font-weight: bold;
+    }
+    .p3intro{
+        position: absolute;
+        top: 350px;
+        margin-left: 695px;
+        font-size: 15px;
+        color: darkolivegreen;
+        
+    }
+
+
+    .testhead{
+        background-color: #B9164614;
+        height: 80px;
+        width: 1000px;
+        margin-top: 430px;
+        position: absolute;
+border-radius: 10px;
+       
+
+    }
+
+    .ttext{
+        position: absolute;
+        font-size: 20px;
+        color: green;
+        font-weight: bolder;
+        margin-left: 400px;
+      
+        margin-top: 30px;
+        text-decoration: none;
+    }
+
+    .material-icons{
+
+        position: absolute;
+        margin-left: 10px;
+    }
+
+    .contactme{
+        position: absolute;
+        font-size: 25px;
+        font-weight: bolder;
+        left: 700px;
+        top: 3180px;
+    }
+
+  
+    .hr5{
+        position: absolute;
+    background-color: orange;
+       border-radius: 5px;
+        height: 5px;
+        width: 200px;
+        margin-top: 3110px;
+        margin-left: 680px;
+    
+    }
+
+.connect{
+    display: flexbox;
+    position: absolute;
+    background-color: whitesmoke;
+    width: 500px;
+    height: 580px;
+    margin-top: 3180px;
+    margin-left: 260px;
+}
+
+
+.let{
+    position: absolute;
+    font-size: 20px;
+    font-weight: bolder;
+    color: darkolivegreen ;
+    margin-top: 80px;
+    margin-left: 50px;
+
+}
+
+.letknow{
+
+    position: absolute;
+    font-size: 15px;
+    margin-top: 150px;
+    margin-left: 50px;
+
+}
+.gmail{
+    position: absolute;
+    width: 25px;
+    margin-top: 250px;
+    margin-left: 50px;
+}
+.gmail1{
+
+position: absolute;
+    font-size: 15px;
+    font-weight: lighter;
+    color: brown ;
+    margin-top: 260px;
+    margin-left: 130px;
+    
+}
+
+.phone{
+    position: absolute;
+    width: 25px;
+    margin-top: 300px;
+    margin-left: 50px;
+}
+.phone1{
+    position: absolute;
+    font-size: 15px;
+    font-weight: lighter;
+    color: brown ;
+    margin-top: 300px;
+    margin-left: 130px;
+
+}
+
+.location{
+    position: absolute;
+    width: 25px;
+    margin-top: 350px;
+    margin-left: 50px;
+}
+.location1{
+    position: absolute;
+    font-size: 15px;
+    font-weight: lighter;
+    color: brown ;
+    margin-top: 350px;
+    margin-left: 130px;
+
+
+}
+    .msg{
+        display: flexbox;
+        position: absolute;
+        background-color:#FBF3E4;
+        width: 500px;
+        height: 580px;
+        margin-top: 3180px;
+        margin-left: 760px;
+    }
+
+    .send{
+        position: absolute;
+        font-size: 20px;
+        font-weight: bolder;
+        color: darkolivegreen ;
+        margin-top: 80px;
+        margin-left: 100px;
+    }
+.star{
+    color: red;
+}
+
+    .fname{
+        position: absolute;
+        font-size: 15px;
+        font-weight: lighter;
+        color: darkolivegreen ;
+        margin-top: 150px;
+        margin-left: 100px;
+
+    }
+    .txtbox{
+       
+            position: absolute;
+            font-size: 15px;
+            font-weight: lighter;
+            color: darkolivegreen ;
+            margin-top: 180px;
+            margin-left: 100px;
+            width: 280px;
+    
+        }
+        
+    
+        
+    .phoneno{
+        position: absolute;
+        font-size: 15px;
+        font-weight: lighter;
+        color: darkolivegreen ;
+        margin-top: 220px;
+        margin-left: 100px;
+
+    }
+    .phonebox{
+       
+            position: absolute;
+            font-size: 15px;
+            font-weight: lighter;
+            color: darkolivegreen ;
+            margin-top: 250px;
+            margin-left: 100px;
+            width: 280px;
+            
+    
+        }
+
+        
+    .email{
+        position: absolute;
+        font-size: 15px;
+        font-weight: lighter;
+        color: darkolivegreen ;
+        margin-top: 300px;
+        margin-left: 100px;
+
+    }
+    .emailbox{
+       
+            position: absolute;
+            font-size: 15px;
+            font-weight: lighter;
+            color: darkolivegreen ;
+            margin-top: 330px;
+            margin-left: 100px;
+            width: 280px
+    
+        }
+
+            .message{
+                position: absolute;
+                font-size: 15px;
+                font-weight: lighter;
+                color: darkolivegreen ;
+                margin-top: 370px;
+                margin-left: 100px;
+                
+        
+            }
+            .msgbox{
+               
+                    position: absolute;
+                    font-size: 15px;
+                    font-weight: lighter;
+                    color: darkolivegreen ;
+                    margin-top: 400px;
+                    margin-left: 100px;
+                    width: 250px;
+                    height: 70px;
+            
+                }
+
+                .smsg{
+                    text-decoration: none;
+                    color: white;
+                }
+            
+    .btn{
+        margin-top: 500px;
+        margin-left: 100px;
+        background-color: orange;
+        color: white;
+        border-radius: 10px;
+        height: 30px;
+        width: 140px;
+
+    }
+
+    .copyright{
+
+        background-color:#F57F173D;
+        height: 60px;
+        width: 1525px;
+        margin-top: 3800px;
+        margin-left: -10px;
+        position: absolute;
+    }
+
+    .copytxt{
+        position: absolute;
+        font-size: 20px;
+        font-weight: bolder;
+        color: darkolivegreen ;
+        margin-top: 20px;
+        margin-left: 600px;
+
+    }
+
+
+
+@media screen  and (max-width:768px)  and (max-height:1024px){
+
+        .header{
+            background-color: #FBF3E4;
+            height: 70px;
+            width: 350px;
+            margin-top: -10px;
+            margin-left: -10px;
+            position: absolute;
+        }
+        
+        .menu{
+            margin-top: 20px;
+            color: #424242;
+        }
+        .name{
+             color: #105652;
+            font-size: 20px;
+            margin-left: 20px;
+            font-weight: bolder;
+        }
+        
+        
+        .home{
+           display: none;
+        
+        }
+        
+        .about{
+            display: none;
+        }
+        
+        .resume{
+            display: none;
+        }
+        
+        .portfolio{
+            display: none;
+        }
+        
+        .contact{
+            display: none;
+        }
+        
+        .profile{
+            background-color: #105652;
+            height: 400px;
+            width: 350px;
+            margin-left: -10px;
+            margin-top: 50px;
+            position: absolute;
+        
+        }
+        
+
+        .abhay{
+            color: darkgoldenrod;
+            font-size: 20px;
+            font-weight: bold;
+            margin-top: 30px;
+            margin-left: 20px;
+        }
+        .developer{
+            color: white;
+            font-size: 20px;
+            font-weight: bold;
+            margin-top: 10px;
+            margin-left: 20px;
+        }
+        
+        .ideas{
+            color: wheat;
+            font-size: 15px;
+            margin-top: 30px;
+            margin-left: 20px;
+        }
+        .htxt{
+            text-decoration: none;
+            color: antiquewhite;
+        }
+
+        .hire{
+            border-radius: 10px;
+            font-weight: bold;
+            margin-top: 30px;
+            margin-left: 20px;
+            width: 100px;
+            height: 40px;
+            background-color:  #09BEAD;
+        }
+        .cvtxt{
+            text-decoration: none;
+            color: antiquewhite;
+        }
+        
+        .getcv{
+            border-radius: 10px;
+            font-weight: bold;
+            margin-top: 30px;
+            margin-left: 30px;
+            width: 100px;
+            height: 40px;
+            background-color: #FCA738;
+            
+        
+        
+        }
+        
+        .btntxt{
+            font-size: 10px;
+            color: darkgoldenrod;
+            text-decoration: none;
+           
+        }
+        
+        
+        .waves{
+            display: none;
+
+        }
+   
+        
+   
+        
+        .image{
+            position: absolute;
+            top: 240px;
+            left: 0px;
+            width: 350px;
+            height: 970px;
+            background: transparent url(about.jpg) 0% 0% no-repeat padding-box;
+            opacity: 1;
+        }
+        
+        
+       
+        
+        .aboutme{
+            background-color: #FFFFFF;
+            height: 400px;
+            width: 350px;
+            margin-left: -10px;
+            margin-top: 690px;
+            position: absolute;
+           
+        }
+        
+        .aboutmetxt{
+            position: absolute;
+            font-size: 20px;
+            font-weight: bolder;
+            left: 110px;
+            top: 20px;
+        }
+        
+        .hr1{
+           background-color: orange;
+           border-radius: 5px;
+            height: 5px;
+            width: 110px;
+            margin-top: 50px;
+            margin-left: 100px;
+        }
+        
+        .paragraph{
+            margin-left: 10px;
+            margin-right: 20px;
+            justify-content: center;
+            text-align: left;
+            justify-content: space-around;
+         
+        }
+        
+        .image2{
+            position: absolute;
+            top: 410px;
+            left: 0px;
+            width: 350px;
+            height: 970px;
+            background: transparent url(about.jpg) 0% 0% no-repeat padding-box;
+            opacity: 1;
+        }
+        
+        .skill{
+            position: absolute;
+            margin-top: 830px;
+            margin-left: 0px;
+            width: 350px;
+            height: 220px;
+            background: #FFFFFF 0% 0% no-repeat padding-box;
+            box-shadow: 0px 0px 30px #00000029;
+            border-radius: 20px;
+            opacity: 1;
+        }
+        
+        .skilltxt{
+            position: absolute;
+            color: darkolivegreen;
+            font-weight: bolder;
+            margin-top: 10px;
+            margin-left: 20px;
+        }
+        
+        .html{
+            position: relative;
+            background: transparent url('html.png') 0% 0% no-repeat padding-box;
+        width: 50px;
+        height:50px;
+        margin-top: 60px;
+        margin-left: 20px;
+        
+        }
+        
+        .css{
+            position: relative;
+            background: transparent url('css.png') 0% 0% no-repeat padding-box;
+        width: 50px;
+        height:50px;
+        margin-top: 10px;
+        margin-left: 20px;
+        
+        }
+        
+        .js{
+            position: relative;
+            background: transparent url('js.png') 0% 0% no-repeat padding-box;
+        width: 50px;
+        height:50px;
+        margin-top: 10px;
+        margin-left: 20px;
+        
+        }
+        
+        .react{
+            position: relative;
+            background: transparent url('react.png') 0% 0% no-repeat padding-box;
+        width: 50px;
+        height:50px;
+        margin-top: 10px;
+        margin-left: 20px;
+        
+        }
+        .mysql{
+            position: relative;
+            background: transparent url('mysql.png') 0% 0% no-repeat padding-box;
+        width: 50px;
+        height:50px;
+        margin-top: 10px;
+        margin-left: 20px;
+        
+        }
+        .php{
+        
+            position: relative;
+            background: transparent url('php.png') 0% 0% no-repeat padding-box;
+        width: 50px;
+        height:50px;
+        margin-top: 10px;
+        margin-left: 10px;
+        }
+        
+        .myportfolio{
+            position: absolute;
+            font-size: 20px;
+            font-weight: bolder;
+            left: 110px;
+            top: 1770px;
+        }
+        
+        .hr2{
+            position: absolute;
+        background-color: orange;
+           border-radius: 5px;
+            height: 5px;
+            width: 135px;
+            margin-top: 1790px;
+            margin-left: 90px;
+        
+        }
+        
+        .projects{
+            display: flexbox;
+            width: 50px;
+            height: 50px;
+            margin-left: 20px;
+        }
+        
+        .backtracking{
+            position: absolute;
+          
+                width: 300px;
+                height: 200px;
+                margin-top: 1820px;
+                margin-left: 0px;
+        
+        }
+        
+        .todoapp{
+              position: absolute;
+            
+                width: 300px;
+                height: 200px;
+                margin-top: 2040px;
+                margin-left: 0px;
+               
+            
+            }
+        
+        
+        .clock{
+            position: absolute;
+            
+                width: 300px;
+                height: 200px;
+                margin-top: 2260px;
+                margin-left: 0px;
+               
+            
+            }
+        
+            
+        .todojs{
+            position: absolute;
+           
+                width: 300px;
+                height: 200px;
+                margin-top: 2480px;
+                margin-left: 0px;
+            }
+        
+            
+        .todoweb{
+            position: absolute;
+           
+                width: 300px;
+                height: 200px;
+                margin-top: 2700px;
+                margin-left: 0px;
+               
+            
+            }
+        
+        
+            .myresume{
+                position: absolute;
+                font-size: 25px;
+                font-weight: bolder;
+                margin-top: 1140px;
+                margin-left: -580px;
+            }
+            
+            .hr3{
+                position: absolute;
+            background-color: orange;
+               border-radius: 5px;
+                height: 5px;
+                width: 100px;
+                margin-top: 2915px;
+                margin-left: 110px;
+            
+            } 
+            
+        
+            .cv{
+
+               
+                position: absolute;
+                margin-left: 20px;
+                width: 300px;
+                height: 200px;
+                margin-top: 2940px;
+        
+            
+            }
+          
+        
+        
+            .peoplesay{
+                position: absolute;
+                font-size: 20px;
+                font-weight: bolder;
+                margin-left: -570px;
+                margin-top: 740px;
+            }
+            
+            .hr4{
+                position: absolute;
+                background-color: orange;
+                   border-radius: 5px;
+                    height: 5px;
+                    width: 300px;
+                    margin-top: 3210px;
+                    margin-left: 30px;
+            }
+        
+            .test{
+                position: absolute;
+                background-color: whitesmoke;
+                height: 370px;
+                width: 350px;
+                margin-left: 0px;
+                margin-top: 3240px;
+                position: absolute;
+                
+            }
+        
+            .p1{
+                position: absolute;
+                height: 200px;
+                width: 200px;
+                border-radius: 50%;
+               background-color: #FFFFFF;
+               background-image: url(html.png);
+              margin-top: 20px;
+              margin-left: 60px;
+        
+            }
+            .p1name{
+                position: absolute;
+                top: 240px;
+                margin-left: 65px;
+                font-size: 20px;
+                color: brown;
+                font-weight: bolder;
+                text-align: center;
+        
+            }
+            .p1work{
+                position: absolute;
+                top: 270px;
+                margin-left: 60px;
+                font-size: 17px;
+                color: gray;
+                font-weight: bold;
+            }
+            .p1intro{
+                position: absolute;
+                top: 295px;
+                margin-left: 65px;
+                font-size: 15px;
+                color: darkolivegreen;
+                
+            }
+
+            .p2{
+                display: none;
+            }
+            .p2name{
+                display: none;
+            }
+            .p2work{
+                display: none;
+            }
+            .p2intro
+            {
+                display: none;
+            }
+
+
+            .p3{
+                display: none;
+            }
+            .p3name{
+                display: none;
+            }
+            .p3work{
+                display: none;
+            }
+            .p3intro{
+                display: none;
+            }
+        
+        
+            .testhead{
+                background-color: #B9164614;
+                height: 50px;
+                width: 350px;
+                margin-top: 370px;
+                position: absolute;
+        border-radius: 10px;
+               
+        
+            }
+        
+            .ttext{
+                position: absolute;
+                font-size: 15px;
+               color:green;
+                font-weight: bolder;
+                margin-left: 75px;
+                margin-top: 15px;
+            }
+
+           
+
+           
+        
+            .contactme{
+                position: absolute;
+                font-size: 20px;
+                font-weight: bolder;
+                left: 90px;
+                top: 3750px;
+            }
+        
+          
+            .hr5{
+                position: absolute;
+            background-color: orange;
+               border-radius: 5px;
+                height: 5px;
+                width: 150px;
+                left: -610px;
+                top: 670px;
+            
+            }
+        
+        .connect{
+            display: flexbox;
+            position: absolute;
+            background-color: whitesmoke;
+            width: 350px;
+            height: 380px;
+            margin-top: 3750px;
+            margin-left: 0px;
+        }
+        
+        
+        .let{
+            position: absolute;
+            font-size: 20px;
+            font-weight: bolder;
+            color: darkolivegreen ;
+            margin-top: 50px;
+            margin-left: 20px;
+        
+        }
+        
+        .letknow{
+        
+            position: absolute;
+            font-size: 13px;
+            margin-top: 100px;
+            margin-left: 20px;
+        
+        }
+        .gmail{
+            position: absolute;
+            width: 25px;
+            margin-top: 200px;
+            margin-left: 20px;
+        }
+        .gmail1{
+        
+        position: absolute;
+            font-size: 13px;
+            margin-top: 200px;
+            margin-left: 80px;
+            
+        }
+        .phone{
+            position: absolute;
+            width: 25px;
+            margin-top: 250px;
+            margin-left: 20px;
+        }
+        .phone1{
+            position: absolute;
+            font-size: 13px;
+        ;
+            margin-top: 250px;
+            margin-left: 80px;
+        
+        }
+        
+        .location{
+            position: absolute;
+            width: 25px;
+            margin-top: 300px;
+            margin-left: 20px;
+        }
+        .location1{
+            position: absolute;
+            font-size: 13px;
+            margin-top: 300px;
+            margin-left: 80px;
+        
+        
+        }
+            .msg{
+                display: flexbox;
+                position: absolute;
+                background-color:#FBF3E4;
+                width: 350px;
+                height: 580px;
+                margin-top: 4100px;
+                margin-left: 0px;
+            }
+        
+            .send{
+                position: absolute;
+                font-size: 20px;
+                font-weight: bolder;
+                color: darkolivegreen ;
+                margin-top: 50px;
+                margin-left: 20px;
+            }
+        
+            .fname{
+                position: absolute;
+                font-size: 15px;
+                font-weight: lighter;
+                color: darkolivegreen ;
+                margin-top: 100px;
+                margin-left: 20px;
+        
+            }
+            .txtbox{
+               
+                    position: absolute;
+                    font-size: 15px;
+                    font-weight: lighter;
+                    color: darkolivegreen ;
+                    margin-top: 140px;
+                    margin-left: 20px;
+                    width: 280px;
+            
+                }
+                
+            .phoneno{
+                position: absolute;
+                font-size: 15px;
+                font-weight: lighter;
+                color: darkolivegreen ;
+                margin-top: 180px;
+                margin-left: 20px;
+        
+            }
+            .phonebox{
+               
+                    position: absolute;
+                    font-size: 15px;
+                    font-weight: lighter;
+                    color: darkolivegreen ;
+                    margin-top: 220px;
+                    margin-left: 20px;
+                    width: 280px;
+                    
+            
+                }
+        
+                
+            .email{
+                position: absolute;
+                font-size: 15px;
+                font-weight: lighter;
+                color: darkolivegreen ;
+                margin-top: 260px;
+                margin-left: 20px;
+        
+            }
+            .emailbox{
+               
+                    position: absolute;
+                    font-size: 15px;
+                    font-weight: lighter;
+                    color: darkolivegreen ;
+                    margin-top: 300px;
+                    margin-left: 20px;
+                    width: 280px
+            
+                }
+        
+                    .message{
+                        position: absolute;
+                        font-size: 15px;
+                        font-weight: lighter;
+                        color: darkolivegreen ;
+                        margin-top: 350px;
+                        margin-left: 20px;
+                        
+                
+                    }
+                    .msgbox{
+                       
+                            position: absolute;
+                            font-size: 15px;
+                            font-weight: lighter;
+                            color: darkolivegreen ;
+                            margin-top: 380px;
+                            margin-left: 20px;
+                            width: 280px;
+                            height: 70px;
+                    
+                        }
+                    
+            .btn{
+                margin-top:480px;
+                margin-left: 20px;
+                background-color: orange;
+                color: white;
+                border-radius: 10px;
+                height: 30px;
+                width: 140px;
+        
+            }
+        
+            .copyright{
+        
+                background-color:#F57F173D;
+                height: 50px;
+                width: 360px;
+                margin-top: 4680px;
+                margin-left: -10px;
+                position: absolute;
+            }
+        
+            .copytxt{
+                position: absolute;
+                font-size: 15px;
+                font-weight: bolder;
+                color: darkolivegreen ;
+                margin-top: 20px;
+                margin-left: 20px;
+        
+            }
+
+
+    }
